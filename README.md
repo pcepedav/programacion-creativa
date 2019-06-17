@@ -5,9 +5,9 @@
 
 Cada clase habrá contenido nuevo que se acumula con la clase anterior, es necesario que el alumno entienda, y practique el contenido entregado en la clase durante la semana.
 
-Cada dos semanas habrá una tarea que se entregará por medio de un **pull request**, al igual que los certámenes y el examen. 
+Cada dos semanas habrá una tarea que se entregará por medio de un **pull request**, al igual que los certámenes y el examen.
 
-Las tareas se irán subiendo con la mayor anterioridad posible, por medio de un archivo **README.md** dentro del sistema de archivos del curso, en este repositorio. 
+Las tareas se irán subiendo con la mayor anterioridad posible, por medio de un archivo **README.md** dentro del sistema de archivos del curso, en este repositorio.
 
 Todo ocurre en este repositorio.
 
@@ -20,11 +20,11 @@ Los alumnos podrán usar cualquier editor de texto para el curso:
 - [Sublime Text](https://www.sublimetext.com/)
 - [Visual Studio](https://code.visualstudio.com/)
 
-Processing funciona por defecto para el curso, la integración de los otros editores de texto, más potentes, depende del alumno, al final del curso se utilizará [P5.js](https://p5js.org/download/) como ambiente de programación, esto también se puede integrar con cualquier editor de texto. 
+Processing funciona por defecto para el curso, la integración de los otros editores de texto, más potentes, depende del alumno, al final del curso se utilizará [P5.js](https://p5js.org/download/) como ambiente de programación, esto también se puede integrar con cualquier editor de texto.
 
 ##### Control de versión
 
-Se utilizará GitHub como base para usar control de versión, y su versión de escritorio para realizar **pull requests**, y también para controlar versiones individuales de cada uno [(descargar)](https://desktop.github.com/). Existe la posibilidad de tener control de versión dentro de Atom y Visual Studio, esto último es levemente más complejo, pero es de completa decisión del alumno. 
+Se utilizará GitHub como base para usar control de versión, y su versión de escritorio para realizar **pull requests**, y también para controlar versiones individuales de cada uno [(descargar)](https://desktop.github.com/). Existe la posibilidad de tener control de versión dentro de Atom y Visual Studio, esto último es levemente más complejo, pero es de completa decisión del alumno.
 
 
 
@@ -62,12 +62,41 @@ Para la primera clase se debe tener:
 
 20/05 **Sin clases: sandwish**
 
-**27/05** **Certamen 2** 
+**27/05** **Certamen 2**
 
-**03/06** Listas flexibles
+**03/06** Múltiples Constructores
 
-**10/06** Visualización de datos, **Presentación Examen**
+**10/06** Texto y Tipografía, **Presentación Examen**
 
-**17/06** **Entrega tarea 5**, Visualización de datos
+**17/06** **Entrega tarea PreExamen**, Visualización de datos
 
 **24/06** **Examen**
+
+
+
+
+
+## Notas
+
+| Alumno           | Tarea 1 | Certamen 1 | Certamen 2 | Tarea 3 Preexamen | Promedio |
+| ---------------- | ------- | ---------- | ---------- | ------------- | ----------------- |
+| Alfredo Varela   | 4.2     | 4.6        | 2.8 |               |                   |
+| Cristobal Gatica | 4.2     | 5.1        | 2.8 |               |                   |
+| Cristobal Schaerer | 5.1 | 5.3 | 5.9 |  |  |
+| Felipe Castillo | 5.1 | 5.1 | 3.5 |  |  |
+| Francisca Mandiola | 2.3 | 3.4 | 2.6 |  |  |
+| Gabriela Navarro | 4.0 | 3.4 | 3.7 |  |  |
+| Gianfranco Bozzo | 6.1 | 4.6 | 4.9 |  |  |
+| Ignacio Ffrench-Davis | 5.4 | 3.6 | 2.4 |  |  |
+| Ignacio Valdivielso | 5.4 | 3.8 | 4.3 |  |  |
+| Jose Miguel Arriagada | 1.0 | 1.0 | 1.0 |  |  |
+| Juan Ecclefield | 6.8 | 5.7 | 6.5 |  |  |
+| Maria Jose Courbis | 3.7 | 4.9 | 3.1 |  |  |
+| Paula Cepeda | 5.8 | 5.3 | 3.9 |  |  |
+| Pedro Manasevich | 6.1 | 5.5 | 2.6 |  |  |
+| Raimundo Rufin | 5.8 | 5.1 | 4.6 |  |  |
+| Renata Vasquez | 5.6 | 5.3 | 3.5 |  |  |
+| Santiago Acuna | 1.0 | 1.0 | 1.0 |  |  |
+| Sebastian Camacho | 3.5 | 4.4 | 2.6 |  |  |
+| Valeria Miranda | 5.6 | 4.2 | 2.4 |  |  |
+| Porcentajes | 25 | 25 | 25 | 25 | 100|
